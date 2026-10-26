@@ -1,6 +1,6 @@
 # TalentVerse — Skills & Career Intelligence
 **Course:** CSB312 — Generative AI  |  **Assessment:** CA3 Mini Project 2 (Option 9)
-**Student:** G Tharun  |  **Deployed URL:** [paste your Render URL here]  |  **GitHub:** [paste repo URL]
+**Student:** G Tharun  |  **Deployed URL:** [paste your Render URL here]  |  **GitHub:** https://github.com/Tharun2005x/TalentVerse
 
 ## 1. Objective
 Build a full-stack Generative AI application that converts unstructured career text into validated, structured data and stores it in a database.
