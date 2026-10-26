@@ -9,6 +9,7 @@ Workflow: **user input → AI extraction → Pydantic validation → FastAPI →
 - **Job Match** – compare your profile with a job description (match %, matched / missing skills)
 - Empty/short input is rejected (client + server), saved-records history with View / Delete
 - Real AI via OpenAI-compatible API when `OPENAI_API_KEY` is set; otherwise a built-in local analyzer (the UI shows which one was used)
+- Deployment Link - https://talentverse-3yo4.onrender.com
 
 ## Run on Windows (easiest)
 1. Extract the ZIP, open the **TalentVerse** folder.
